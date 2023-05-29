@@ -39,7 +39,7 @@ function generateMarkdown(data) {
 
   * [Usage](#usage)
 
-  * [Contributing](#contributing)
+  * [Email](#email)
 
   ## Installation
   ${data.installation}
@@ -47,8 +47,8 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## Contributing
-  ${data.contributing}
+  ## Email
+  ${data.email}
 `;
 }
 
