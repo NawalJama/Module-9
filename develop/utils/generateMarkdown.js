@@ -39,11 +39,16 @@ function generateMarkdown(data) {
 
   * [Usage](#usage)
 
+  * [Contributing](#contributing)
+
   ## Installation
   ${data.installation}
 
   ## Usage
   ${data.usage}
+
+  ## Contributing
+  ${data.contributing}
 `;
 }
 
