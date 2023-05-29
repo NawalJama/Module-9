@@ -41,6 +41,10 @@ function generateMarkdown(data) {
 
   * [Test](#test)
 
+  * [Contributing](#contributing)
+
+  * [Email](#email)
+
   ## Installation
   ${data.installation}
 
@@ -49,6 +53,12 @@ function generateMarkdown(data) {
 
   ## Test
   ${data.test}
+
+  ## Contributing
+  ${data.contributing}
+
+  ## Email
+  ${data.email}
 `;
 }
 
