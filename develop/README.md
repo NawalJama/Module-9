@@ -1,5 +1,5 @@
 # abc
-  ![Project license](https://img.shields.io/badge/license-BSD_3-yellow.svg)
+  ![Project license](https://img.shields.io/badge/license-MIT-yellow.svg)
 
   ## Description
 
@@ -17,7 +17,7 @@
 
   * [Email](#email)
 
-  * [Github](#github)
+  * [Questions](#github)
 
   ## Installation
   abc
@@ -34,5 +34,5 @@
   ## Email
   abc
 
-  ## Github
+  ## Questions
   abc
