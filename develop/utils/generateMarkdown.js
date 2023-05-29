@@ -31,9 +31,15 @@ function generateMarkdown(data) {
 
   ## Description
 
-  ${
-    data.description
-  }
+  ${data.description};
+
+  ## Table of Contents
+
+  * [Installation](#installaction)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Email](#email)
+  * [Github](#Github)
 `;
 }
 
