@@ -45,6 +45,8 @@ function generateMarkdown(data) {
 
   * [Email](#email)
 
+  * [Github](#github)
+
   ## Installation
   ${data.installation}
 
@@ -59,6 +61,9 @@ function generateMarkdown(data) {
 
   ## Email
   ${data.email}
+
+  ## Github
+  ${data.github}
 `;
 }
 
