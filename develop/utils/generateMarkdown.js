@@ -39,11 +39,11 @@ function generateMarkdown(data) {
 
   * [Usage](#usage)
 
-  * [Contributing](#contributing)
+  ## Installation
+  ${data.installation}
 
-  * [Email](#email)
-  
-  * [Github](#github)
+  ## Usage
+  ${data.usage}
 `;
 }
 
