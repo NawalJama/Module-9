@@ -39,7 +39,8 @@ function generateMarkdown(data) {
 
   * [Usage](#usage)
 
-  * [Email](#email)
+  * [Test](#test)
+  * []
 
   ## Installation
   ${data.installation}
@@ -47,8 +48,8 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## Email
-  ${data.email}
+  ## Test
+  ${data.test}
 `;
 }
 
