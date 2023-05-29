@@ -36,10 +36,9 @@ function generateMarkdown(data) {
   ## Table of Contents
 
   * [Installation](#installaction)
+
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Email](#email)
-  * [Github](#Github)
+
 `;
 }
 
