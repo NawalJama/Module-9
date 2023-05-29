@@ -1,5 +1,5 @@
 # abc
-  ![Project license](https://img.shields.io/badge/license-GPL_3.0-yellow.svg)
+  ![Project license](https://img.shields.io/badge/license-BSD_3-yellow.svg)
 
   ## Description
 
@@ -11,3 +11,8 @@
 
   * [Usage](#usage)
 
+  ## Installation
+  abc
+
+  ## Usage
+  abc
