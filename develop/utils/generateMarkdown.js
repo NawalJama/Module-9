@@ -41,6 +41,8 @@ function generateMarkdown(data) {
 
   * [Test](#test)
 
+  * [License](#license)
+
   * [Contributing](#contributing)
 
   * [Email](#email)
@@ -55,6 +57,9 @@ function generateMarkdown(data) {
 
   ## Test
   ${data.test}
+
+  ## License
+  ${data.license}
 
   ## Contributing
   ${data.contributing}
